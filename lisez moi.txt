@@ -1,0 +1,11 @@
+On distribuera systématiquement en début d'année ce code source 
+Les élèves devront intégrer leurs routines
+Le passage graphique se fait très simplement , ce qui va permettre 
+de se concentrer essentiellement sur l'algorithmique
+tout en ayant un visuel sympa
+
+présentation générale du code au tableau à envisager
+
+
+
+
